@@ -15,19 +15,23 @@
 
 
 ### Project Overview
+---
 
 An analysis of gender in the workplace offers important insights into the understanding of gender inequalities, especially in terms of access to resources, opportunities, limitations, and power within the professional setting. This project aims to guide the creation of policies, programs, and initiatives focused on addressing gender disparities at work. The objective is to pinpoint strategies that can improve employee productivity and overall business performance within the organization.
 
 ### Data Sources
+---
 
 The primary dataset for this analysis is sourced from [Kaggle.com](https://www.kaggle.com/datasets/wrucebaynebot/hr-dataset) and includes information about the company's employees.
 
 ### Project Tools 
+---
 
 - **Language:** Python - Data Cleaning, Analysis, Reports. 
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn.
 
 ### Project Process
+---
 
 #### Data Preparation 
 
